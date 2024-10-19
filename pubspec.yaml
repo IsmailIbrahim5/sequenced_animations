@@ -1,10 +1,10 @@
 name: sequenced_animations
 description: "Easily create smooth and precise sequenced animation to your widgets, creating beautiful and creative animations and transitions."
 version: 1.0.0
-homepage:
+repository: 'https://github.com/IsmailIbrahim5/sequenced_animations'
 
 environment:
-  sdk: ^3.6.0-216.1.beta
+  sdk: ^3.6.0-216
   flutter: ">=1.17.0"
 
 dependencies:
