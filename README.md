@@ -10,7 +10,7 @@ Inspired from ![flutter_staggered_animations](https://pub.dev/packages/flutter_s
 
 ![](https://github.com/IsmailIbrahim5/sequenced_animations/blob/main/assets/sequenceAnimationBuilder.gif?raw=true)
 
-![](https://github.com/IsmailIbrahim5/sequenced_animation/blob/main/assets/sequenceAnimationBuilder1.gif?raw=true)
+![](https://github.com/IsmailIbrahim5/sequenced_animations/blob/main/assets/sequenceAnimationBuilder1.gif?raw=true)
 
 ![](https://github.com/IsmailIbrahim5/sequenced_animations/blob/main/assets/loading.gif?raw=true)
 
